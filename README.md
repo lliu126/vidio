@@ -1,6 +1,5 @@
-# Vidio
-## Watch YouTube videos 
-### built with ReactJS, Axios, and Material-UI
+# Vidio - Watch videos from YouTube 
+### Built with ReactJS, Axios, and Material-UI
 
 <img src="./src/images/vidio1.PNG" alt="Sample1"/>
 <img src="./src/images/vidio2.PNG" alt="Sample2"/>
